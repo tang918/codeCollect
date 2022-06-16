@@ -1,0 +1,10 @@
+Mary,./home,1000
+Alice,./cart,2000
+Bob,./prod/100,3000
+Alisa,./home,4000
+Bob,./prod/100,3000
+Bob,./pay/100,8000
+Mary,./home,6000
+Bob,./home/100,4000
+Bob,www.baidu.com,9000
+

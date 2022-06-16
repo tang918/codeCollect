@@ -1,0 +1,4 @@
+- dataSetAPI将被弃用，官方建议统一使用DataStreamAPI
+- DatStream在用法上类似于常规的Java集合，但又有所不同。
+我们在代码中往往并不关心集合中具体的数据，而只是用API定义出一连串的操作来处理他们，这就叫做数据流的转换。
+一个Flink程序，其实就是对DataStream的各种转换。
