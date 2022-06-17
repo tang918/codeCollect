@@ -6,3 +6,4 @@
 - SourceTest:读入数据的方式
 - Transformation:常见的算子，包括map,flatMap,reduce等
 - RichFunctionTest:用户自定义算子
+- SinkTest:输出算子，包括输出到文件,kafka,redis,mysql
